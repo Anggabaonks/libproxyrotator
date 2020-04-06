@@ -10,8 +10,8 @@ import (
 
 	"golang.org/x/net/proxy"
 	"github.com/armon/go-socks5"
-	"github.com/aztecrabbit/liblog"
-	"github.com/aztecrabbit/libutils"
+	"github.com/Anggabaonks/liblog"
+	"github.com/Anggabaonks/libutils"
 )
 
 var (
